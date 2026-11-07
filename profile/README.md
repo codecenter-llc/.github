@@ -9,6 +9,6 @@
 
 <p align="center"><em>Big-company engineering. No big company attached.</em></p>
 
-<p align="center">Industrial-strength websites &amp; software &middot; Chester Springs, PA</p>
+<p align="center">Industrial-strength websites &amp; software &middot; Chester County, PA</p>
 
 <p align="center"><a href="https://codecenter.com"><strong>codecenter.com &rarr;</strong></a></p>
